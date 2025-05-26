@@ -2,8 +2,8 @@
 
 set -eu
 
-MDBOOK="${1}"
-MDBOOK_VERSION="${2}"
+MDBOOK="./bin/mdbook"
+MDBOOK_VERSION="${1}"
 CURDIR="${PWD}"
 
 # If it exists, do not redownload
@@ -45,8 +45,8 @@ curl -L "$URL" -o mdbook.tar.gz
 # Extract and install
 tar -xzf mdbook.tar.gz
 chmod +x mdbook
-mv mdbook "${MDBOOK}-${MDBOOK_VERSION}"
-ln -sf "${MDBOOK}-${MDBOOK_VERSION}" "${MDBOOK}"
+mkdir -p ./bin
+mv mdbook "${MDBOOK}"
 
 # Clean up
 rm -f mdbook.tar.gz

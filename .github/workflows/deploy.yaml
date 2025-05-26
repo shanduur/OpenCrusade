@@ -35,15 +35,13 @@ jobs:
         env:
           MDBOOK_VERSION: v0.4.47
         run: |
-          ./hack/tools/install-mdbook.sh /usr/bin/mdbook ${MDBOOK_VERSION}
+          ./hack/tools/install-mdbook.sh ${MDBOOK_VERSION}
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - name: Build with mdBook
         run: |
-          mdbook build
+          ./bin/mdbook build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
