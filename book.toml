@@ -5,3 +5,6 @@ authors = [
 language = "en"
 src = "src"
 title = "OpenCrusade"
+
+[output.html.fold]
+enable = true
