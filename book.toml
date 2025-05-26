@@ -1,0 +1,7 @@
+[book]
+authors = [
+  "Mateusz Urbanek"
+]
+language = "en"
+src = "src"
+title = "OpenCrusade"
