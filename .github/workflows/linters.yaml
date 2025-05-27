@@ -9,7 +9,6 @@ on:
 
 jobs:
   woke:
-    name: woke
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -20,3 +19,14 @@ jobs:
         with:
           # Cause the check to fail on any broke rules
           fail-on-error: true
+
+  size:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - uses: freenet-actions/check-file-size@v1
+        with:
+          max_size: 1000
+          post_comment: false

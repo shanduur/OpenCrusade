@@ -39,6 +39,9 @@
 # Mechanicum Forges
 
 - [Taghmata Mechanicum](./mechanicum/taghmata/_index.md)
+  - [Castellax Acheron Battle-automata Maniple](./mechanicum/taghmata/castellax-acheron-battle-automata-maniple/_index.md)
+  - [Gladiar Battle-automata Maniple](./mechanicum/taghmata/gladiar-battle-automata-maniple/_index.md)
+
 - [Ordo Reductor](./mechanicum/ordo-reductor/_index.md)
 - [Questoris Knights](./mechanicum/imperial-knights/_index.md)
 - [Adeptus Titanicus](./mechanicum/titan-legions/_index.md)

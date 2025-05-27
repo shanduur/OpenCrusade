@@ -1,18 +1,18 @@
 # [Unit Name]
+
 {{#authors shanduur}}
 
 > Use this standardized format to create and share custom units, squads, or characters for your Heresy campaigns, with full stat blocks and special rules.
 
+<img class="right" src="assets/image.png" width="20%">
+
 **Faction:** [Faction]  
-**Role:** [Role]  
-**Unit Type:** [Type] ([Faction], [Sub-type])  
+**Unit Type:** [Type] ([Sub-type(s)])  
 **Allegiance:** [Allegiance]  
 **Points Cost:** [X Points]  
 **Unit Composition:**  
 - [Leader Name]  
 - [Number] [Model Type(s)]
-
----
 
 ## Profile
 
@@ -27,8 +27,6 @@
 |----|-------|------|------|----|
 | X  | X     | X    | X    | X  |
 
----
-
 ## Wargear
 - [Primary Weapon]
 - [Secondary Weapon or sidearm]
@@ -36,8 +34,6 @@
 - [Armour Type]
 - [Grenades]
 - [Other Equipment]
-
----
 
 ## Weapon Profiles
 
@@ -47,33 +43,25 @@
 | [Weapon 2] | X     | X   | X  | X    |
 | [Weapon 3] | X     | X   | X  | X    |
 
----
-
 ## Special Rules
 - [Special Rule 1]
 - [Special Rule 2]
 - [Special Rule 3]
 - [Unit Sub-type-based rules]
 
----
-
 ## Options
 - May include up to X additional [model type] for +[X] points each
 - May replace [default weapon] with:
-  - [Weapon A] … [+X pts]
-  - [Weapon B] … [Free]
+  - [Weapon A] [+X pts]
+  - [Weapon B] [Free]
 - May take the following additional Wargear:
-  - [Item A] … [+X pts]
-  - [Item B] … [+X pts]
+  - [Item A] [+X pts]
+  - [Item B] [+X pts]
 - [Vehicle-specific]: May include up to X [weapon/hull mount/etc.] for +[X] pts each
-
----
 
 ## Provenance Effects (if applicable)
 - [Provenance Name]  
   - [Effect on this unit, if any]
 
----
-
-## Keywords & Notes
+## Notes
 - [Any restrictions, clarifications, interaction with other units, unique traits, or lore background]

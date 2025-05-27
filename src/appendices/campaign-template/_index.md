@@ -1,4 +1,5 @@
 # [Campaign Title]
+
 {{#authors shanduur}}
 
 > Use this standardized format to create and share narrative campaigns for your Horus Heresy battles. Campaigns link missions through branching outcomes, persistent effects, and narrative progression.
@@ -12,8 +13,6 @@
 - [Group 2] [Factions]
 - [Group 3] [Factions]
 - [Group 4] [Factions]
-
----
 
 ## Campaign Flow
 
@@ -35,8 +34,6 @@ graph TD
 - [Mission 2B: [Name]](./mission-template.md)
 - [Mission 3: [Name]](./mission-template.md)
 
----
-
 ## Campaign Rules
 
 ### Persistence & Tracking
@@ -52,8 +49,6 @@ graph TD
 | [Name] | [Effects] |
 | [Name] | [Effects] |
 | [Name] | [Effects] |
-
----
 
 ## Epilogue
 
