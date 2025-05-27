@@ -17,10 +17,10 @@
 ## Profile
 
 ### Infantry / Cavalry / Psyker / Monstrous
-| Model               | M | WS | BS | S | T | W | I | A | Ld | Sv |
-|---------------------|---|----|----|---|---|---|---|---|----|----|
-| [Leader Name]       | X | X  | X  | X | X | X | X | X | X  | X  |
-| [Member Type]       | X | X  | X  | X | X | X | X | X | X  | X  |
+| Model               | M | WS | BS | S | T | W | I | A | Ld | Sv | Base |
+|---------------------|---|----|----|---|---|---|---|---|----|----|------|
+| [Leader Name]       | X | X  | X  | X | X | X | X | X | X  | X  | Xmm  |
+| [Member Type]       | X | X  | X  | X | X | X | X | X | X  | X  | Xmm  |
 
 ### Vehicle
 | BS | Front | Side | Rear | HP |
