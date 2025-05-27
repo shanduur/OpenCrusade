@@ -2,6 +2,8 @@
 
 # Legiones Astartes
 
+- [Standard Units](./legiones-astartes/standard-units/_index.md)
+
 - [Loyalist Legions](./legiones-astartes/loyalist/_index.md)
     - [Dark Angels](./legiones-astartes/loyalist/dark-angels/_index.md)
     - [White Scars](./legiones-astartes/loyalist/white-scars/_index.md)
