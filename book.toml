@@ -13,6 +13,15 @@ site-url = "/OpenCrusade/"
 git-repository-url = "https://github.com/shanduur/OpenCrusade/tree/main"
 edit-url-template = "https://github.com/shanduur/OpenCrusade/edit/main/{path}"
 hash-files = true
+additional-js = ["src/_js/mermaid.min.js", "src/_js/mermaid-init.js"]
 
 [output.html.fold]
 enable = true
+
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[preprocessor.github-authors]
+command = "mdbook-github-authors"

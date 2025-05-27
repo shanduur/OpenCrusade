@@ -1,1 +1,0 @@
-# Ordo Reductor
