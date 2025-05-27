@@ -7,7 +7,7 @@
 **Recommended Force Size:** [X Points]  
 **Format:** [Format]  
 **Setting:** [Setting]  
-**Timeframe:** [Timeframe]  
+**Time frame:** [Time frame]  
 **Participating Factions:**  
 - [Group 1] [Factions]
 - [Group 2] [Factions]
