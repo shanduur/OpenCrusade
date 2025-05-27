@@ -9,7 +9,6 @@ title = "OpenCrusade"
 [output.html]
 smart-punctuation = true
 mathjax-support = true
-site-url = "/OpenCrusade/"
 git-repository-url = "https://github.com/shanduur/OpenCrusade/tree/main"
 edit-url-template = "https://github.com/shanduur/OpenCrusade/edit/main/{path}"
 hash-files = true
