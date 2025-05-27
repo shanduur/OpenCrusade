@@ -29,10 +29,10 @@ graph TD
     M2B --> M3
 ```
 
-- [Mission 1: [Name]](./mission-template.md)
-- [Mission 2A: [Name]](./mission-template.md)
-- [Mission 2B: [Name]](./mission-template.md)
-- [Mission 3: [Name]](./mission-template.md)
+- [Mission 1: [Name]](../mission-template/_index.md)
+- [Mission 2A: [Name]](../mission-template/_index.md)
+- [Mission 2B: [Name]](../mission-template/_index.md)
+- [Mission 3: [Name]](../mission-template/_index.md)
 
 ## Campaign Rules
 
