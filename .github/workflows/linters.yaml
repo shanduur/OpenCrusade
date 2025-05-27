@@ -1,11 +1,12 @@
 name: Linters
 
 on:
+  pull_request:
+    branches:
+      - "main"
   push:
     branches:
-    - "**"
-    tags-ignore:
-    - "**"
+      - "main"
 
 jobs:
   woke:
@@ -28,5 +29,8 @@ jobs:
 
       - uses: freenet-actions/check-file-size@v1
         with:
-          max_size: 1000
+          max_size: 2048
           post_comment: false
+          fail_on_find: true
+          ignored_files: |
+            src/_js/mermaid.min.js
