@@ -48,6 +48,6 @@
 
 ## Notes
 
-Castellax Acheron Battle-automata are ancient battle constructs designed for frontline suppression and area denial. Capable of mounting heavy ranged weaponry while charging enemy lines with titanic servo-driven fists, they were commonly deployed during sieges or to counter enemy automata. Their rugged design and thick armor allow them to absorb considerable punishment, while their cortex-linked behavior ensures relentless pursuit of mission directives.
+Castellax Acheron Battle-automata are ancient constructs, originally forged for deep-core mining and heavy industrial labor before being repurposed for war. Hailing from the mining forge world of Acheron, a planet renowned for its vast subterranean wealth and, more significantly, as the fabled origin point of a Standard Template Construct (STC) database, these automata represent a blend of brutal function and relic technology. Their sturdy frames, capable of withstanding the immense pressures of the planet's core and the rigors of extracting volatile materials, were easily adapted to endure battlefield ordnance. The powerful manipulators designed for cleaving through bedrock became potent power fists. The discovery of the STC on Acheron not only bolstered the Mechanicum's technological archives but also provided the foundational knowledge for refining the Acheron Castellax.
 
 Unit model can be based on Kastelan Robots.
