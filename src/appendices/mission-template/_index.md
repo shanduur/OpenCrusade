@@ -32,9 +32,9 @@ List the mission's primary and secondary objectives clearly.
 
 Include any special rules or modifications for this scenario.
 
-- **Twilight Advance:** All units gain +1 Movement for the first turn.
-- **Ash Storm:** At the start of each turn, roll a D6. On a 4+, all ranged weapons suffer -1 to Hit for the duration of the turn.
-- **No Deep Strikes:** Units may not be placed in Reserves unless specified by their army rules.
+- **[Name]** [Details]
+- **[Name]** [Details]
+- **[Name]** [Details]
 
 ## Victory Conditions
 
